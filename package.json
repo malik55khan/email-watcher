@@ -7,9 +7,6 @@
     "start": "DEBUG=index node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "engines": {
-    "node": "4.2.4"
-  },
   "author": "",
   "license": "ISC",
   "dependencies": {
